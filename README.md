@@ -1,4 +1,4 @@
-<p align="center"><img width=650 alt="Evil-IRC" src="https://github.com/JoelGMSec/Evil-IRC/blob/main/Evil-IRC.png"></p>
+<p align="center"><img width=450 alt="Evil-IRC" src="https://github.com/JoelGMSec/Evil-IRC/blob/main/Evil-IRC.png"></p>
 
 # Evil-IRC
 **Evil-IRC** is an Old School IRC Backdoor writed in Perl.
